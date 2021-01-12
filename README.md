@@ -1,0 +1,2 @@
+# Secure-File
+Secure File Storage in Cloud Computing using Hybrid Cryptography Algorithms. The product ensures security of the user’s data stored on cloud by providing a tool that helps to encrypt files using DES, AES, RC4 and Image Steganography(to hide the key) algorithms before uploading on the cloud(in our case dropbox) and later on decrypting the same after downloading. Thus ensuring that no unauthorized person, not even the cloud provider himself can access the user’s data stored on cloud. Project is implemented in JAVA.
